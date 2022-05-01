@@ -3,7 +3,24 @@
     background-color: lightblue;
   }
 }
+body {
+  background-color: #d6cbd3;
+}
+
+#navbar {
+  position: fixed;
+  width: 100%;
+  background-color: lightblue;
+  top: 0px;
+  left: 0px;
+}
 
 #welcome-section{
-    height: 100vh;
+  height: 100vh;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
 }
